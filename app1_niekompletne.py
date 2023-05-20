@@ -25,7 +25,7 @@ def main():
 	st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1200px-RMS_Titanic_3.jpg")
 
 	with overview:
-		st.title("Wyrocznia.exe")
+		st.title("HariPotta.exe") // TUTAJ ZMIENIAM
 
 	with left:
 		sex_radio = st.radio( "Płeć", list(sex_d.keys()), format_func=lambda x : sex_d[x] )
