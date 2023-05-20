@@ -1,7 +1,7 @@
 # źródło danych [https://www.kaggle.com/c/titanic/](https://www.kaggle.com/c/titanic)
-
+//Nie można tak brzydko pisać w codzie
 import streamlit as st
-import pickle
+import pickle 
 from datetime import datetime
 startTime = datetime.now()
 # import znanych nam bibliotek
