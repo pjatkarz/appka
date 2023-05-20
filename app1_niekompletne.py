@@ -1,5 +1,5 @@
 # źródło danych [https://www.kaggle.com/c/titanic/](https://www.kaggle.com/c/titanic)
-
+#dupa nie konflikt
 import streamlit as st
 import pickle
 from datetime import datetime
