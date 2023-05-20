@@ -1,0 +1,6 @@
+Public class AndrzejTezJestGit {
+  public static void main {
+  
+  System.out.println("Andrzej jest git");
+  }
+  }
